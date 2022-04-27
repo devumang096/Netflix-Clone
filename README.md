@@ -1,6 +1,6 @@
 # Netflix Clone
 
-- Demo: 
+- Demo:  https://devumang096.github.io/Netflix-Clone/
 
 This project is a simplified front end clone of Netflix. It was created with HTML and CSS (Grid and Flexbox). Feel free to contribute!
 
@@ -8,6 +8,7 @@ This project is a simplified front end clone of Netflix. It was created with HTM
 -HTML
 - Media queries
 - CSS
+- JS
 
 ### Runing Project Locally
 
